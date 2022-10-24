@@ -1,1 +1,2 @@
 # Sample_MyPhotos
+　JavaScriptを利用した写真掲載サイトのサンプルになります。
